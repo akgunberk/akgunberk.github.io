@@ -1,0 +1,41 @@
+---
+import HeaderLink from "./HeaderLink.astro";
+import { SITE_TITLE } from "../config";
+
+const HEADERS_LINKS = [
+  {
+    to: "/",
+    content: "Home",
+  },
+  {
+    to: "/about",
+    content: "About",
+  },
+  {
+    to: "https://twitter.com/berk__akgun",
+    content: "Twitter",
+    target: "blank",
+  },
+  {
+    to: "https://github.com/akgunberk",
+    content: "Github",
+    target: "blank",
+  },
+];
+---
+
+<header class="my-4">
+  <h2>{SITE_TITLE}</h2>
+
+  <h3 class="my-2">Short blog posts for almost each day at work.</h3>
+
+  <nav>
+    {
+      HEADERS_LINKS.map(({ to, content, target }) => (
+        <HeaderLink href={to} target={target}>
+          {content}
+        </HeaderLink>
+      ))
+    }
+  </nav>
+</header>
