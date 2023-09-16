@@ -61,17 +61,21 @@ Moon
 
 ## Prompts
 
+{: .prompt-tip }
+
 > An example showing the `tip` type prompt.
-> {: .prompt-tip }
+
+{: .prompt-info }
 
 > An example showing the `info` type prompt.
-> {: .prompt-info }
+
+{: .prompt-warning }
 
 > An example showing the `warning` type prompt.
-> {: .prompt-warning }
+
+{: .prompt-danger }
 
 > An example showing the `danger` type prompt.
-> {: .prompt-danger }
 
 ## Tables
 
