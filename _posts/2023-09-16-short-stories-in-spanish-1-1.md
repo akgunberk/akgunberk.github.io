@@ -10,24 +10,24 @@ comments: false
 
 Un libro de Olly Richards. Tiene muchas historias para leer y muchas palabras para aprender.
 
-## Historia 1
+<h1 data-toc-skip> Historia 1 </h1>
 
 Daniel y Julia son hermanos y viven en la misma casa en Inglaterra, London con sus padres.
 Ellas hablan espanol y practican con sus padres en la casa.
 Ellas son estudiantes de intercambio y viajan a Barcelona.
 
-### Capitulo 1
+## Capitulo 1
 
 Daniel y Julia estan preparando sus muchillas en la casa.
 Julia esta muy preocupada antes de tomar el avion rumbo a Barcelona pero al final esta tranquilla.
 
-#### Las Frases
+### Las Frases
 
 - Aun no estoy vestido / I am not dressed yet.
   - Aun(yet)
 - Me acerco a Julia / I get close to Julia
 
-#### Las Palabras
+### Las Palabras
 
 - La misma / The same
 - medir / to measure - to be (V)
@@ -36,7 +36,7 @@ Julia esta muy preocupada antes de tomar el avion rumbo a Barcelona pero al fina
 - Impaciante / Impatient
 - Nerviosa - Relajada / Nervous - Relax
 
-##### Las Partes Del Cuerpo
+#### Las Partes Del Cuerpo
 
 - El cuerpo / Body
 - El pelo / Hair
