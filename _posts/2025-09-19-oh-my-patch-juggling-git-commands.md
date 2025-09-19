@@ -7,7 +7,7 @@ categories: [daily, code]
 tags: [git]
 ---
 
-# When Git Saved My Day (Again) with `git format-patch` and `git am`
+# When Git Saved My Day (Again)
 
 ## TL;DR
 
