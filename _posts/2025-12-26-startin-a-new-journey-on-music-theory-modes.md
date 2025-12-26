@@ -18,10 +18,11 @@ I’ve always been curious about math, and I find music surprisingly similar to 
 To be honest, I don’t have much of a music background. Still, my friends and my wife often tell me I have a natural gift for music—especially rhythm. Maybe that comes from watching me play Metal: Hellsinger a few times, where I’d stay so focused on keeping the rhythm that tears would come down my eyes because I barely blinked.
 
 Jokes aside, rhythm is pretty much the only strength people say I have. When it comes to music theory, my knowledge is very basic. Here’s what I know so far:
-• Cowboy chords (open chords)
-• A few spider exercises on the fretboard
-• Simple barre chords, like F major
-• Power chords—of course, because they’re both the simplest and the best
+
+- Cowboy chords (open chords)
+- A few spider exercises on the fretboard
+- Simple barre chords, like F major
+- Power chords—of course, because they’re both the simplest and the best
 
 After not touching the guitar for a couple of years, I finally restrung it and started doing simple exercises to get the feeling back in my fingers
 
@@ -34,16 +35,17 @@ This time, however, I have something I didn’t have a few years ago: AI tools s
 Since I want to truly understand music this time—and who knows, maybe even become a composer someday—I decided to dig into the mathematical side of music with the help of AI.
 
 I started learning music theory in the following order:
-• Notes and the chromatic scale (of course! A, B, C, D, E, F, G—easy as pie)
-• Notes on the fretboard
-• Standard guitar tuning and the reasoning behind it
-• Intervals (m2, M2, m3, M3, P4, tritone, P5, m6, M6, m7, M7, octave)
-• Interval shapes on the guitar
-• Major diatonic scale construction
-• Triads and inversions
-• Minor diatonic scale construction
-• A minor pentatonic scale (position 1)
-• Modes
+
+- Notes and the chromatic scale (of course! A, B, C, D, E, F, G — easy as pie)
+- Notes on the fretboard
+- Standard guitar tuning and the reasoning behind it
+- Intervals (unison, m2, M2, m3, M3, P4, tritone, P5, m6, M6, m7, M7, octave)
+- Interval shapes on the guitar
+- Major diatonic scale construction
+- Triads and inversions
+- Minor diatonic scale construction
+- A minor pentatonic scale (position 1)
+- Modes
 
 Almost a month has passed since I started, and at some point I decided to share my learning journey here. Writing about what I learn helps me understand the concepts better.
 
