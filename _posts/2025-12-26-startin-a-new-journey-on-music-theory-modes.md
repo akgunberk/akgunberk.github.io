@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Startin a new journey on music theory"
+title: "Starting a new journey on music theory"
 date: 2025-12-26 10:25 +0300
 author: akgunberk
 categories: [hobby, music]
