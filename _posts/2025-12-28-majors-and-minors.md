@@ -8,8 +8,6 @@ tags: [music]
 mermaid: true
 ---
 
-# Majors and Minors
-
 When I started learning scales and chords, all I know was the major scale.
 
 As you may have heard already:

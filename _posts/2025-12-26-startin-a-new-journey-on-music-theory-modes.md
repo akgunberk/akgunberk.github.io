@@ -7,7 +7,7 @@ categories: [hobby, music]
 tags: [music]
 ---
 
-# How I Started and My Music Background
+## How I Started and My Music Background
 
 I’ve owned a guitar since high school, but I never really had the chance to improve my skills back then. For years, it just sat in my room, quietly watching me.
 
@@ -26,7 +26,7 @@ Jokes aside, rhythm is pretty much the only strength people say I have. When it 
 
 After not touching the guitar for a couple of years, I finally restrung it and started doing simple exercises to get the feeling back in my fingers
 
-# My Plan and Tools for Learning Music Theory
+## My Plan and Tools for Learning Music Theory
 
 Like most people, I started learning music by watching YouTube videos and reading articles online.
 

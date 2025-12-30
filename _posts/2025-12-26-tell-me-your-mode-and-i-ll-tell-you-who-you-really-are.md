@@ -7,7 +7,7 @@ categories: [hobby, music]
 tags: [music]
 ---
 
-# Modes
+## Modes
 
 Let's see what are these modes they're talking about and what are those made of!
 
