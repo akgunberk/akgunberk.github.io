@@ -38,7 +38,7 @@ possible interval shapes.
 | Ionian(Major)       | R   | M2  | M3  | P4    | P5    | M6  | M7     | Octave |
 | Dorian              | R   | M2  | m3  | P4    | P5    | M6  | m7     | Octave |
 | Phrygian            | R   | m2  | m3  | P4    | P5    | m6  | m7     | Octave |
-| Lydian              | R   | M2  | M3  | TT/b4 | P5    | M6  | M7     | Octave |
+| Lydian              | R   | M2  | M3  | TT/#4 | P5    | M6  | M7     | Octave |
 | Mixolydian          | R   | M2  | M3  | P4    | P5    | M6  | m7     | Octave |
 | Aeolian(Rel. minor) | R   | M2  | m3  | P4    | P5    | m6  | m7     | Octave |
 | Locrian             | R   | m2  | m3  | P4    | TT/b5 | m6  | m7     | Octave |
@@ -99,7 +99,7 @@ this case.
 Phrygian mode is just a `minor` scale but lower 2nd by half,
 which also means using **M2** instead of **m2** interval.
 So, it is good to emphasize **M2** playing `Phrygian`
-to make sure it sound Dorian instead of a regular minor scale, or Aeolian in
+to make sure it sound Phrygian instead of a regular minor scale, or Aeolian in
 this case.
 
 | Intervals           | I   | ii   | iii | IV  | V   | vi  | vii(o) | I      |
@@ -112,15 +112,15 @@ this case.
 ### Lydian (major scale)
 
 Lydian mode is just a `major` scale but lower 4th by half,
-which also means using **b4** instead of **p4** interval.
-So, it is good to emphasize **b4** playing `Lydian`
-to make sure it sound Dorian instead of a regular major scale, or Ionian in
+which also means using **#4** instead of **#4** interval.
+So, it is good to emphasize **#4** playing `Lydian`
+to make sure it sound Lydian instead of a regular major scale, or Ionian in
 this case.
 
 | Intervals     | I   | ii  | iii | IV      | V   | vi  | vii(o) | I      |
 | ------------- | --- | --- | --- | ------- | --- | --- | ------ | ------ |
 | Ionian(Major) | R   | M2  | M3  | `P4`    | P5  | M6  | M7     | Octave |
-| Lydian        | R   | M2  | M3  | `TT/b4` | P5  | M6  | M7     | Octave |
+| Lydian        | R   | M2  | M3  | `TT/#4` | P5  | M6  | M7     | Octave |
 
 ---
 
@@ -129,7 +129,7 @@ this case.
 Mixolydian mode is just a `major` scale but lower 7th by half,
 which also means using **M7** instead of **m7** interval.
 So, it is good to emphasize **m7** playing `Mixolydian`
-to make sure it sound Dorian instead of a regular major scale, or Ionian in
+to make sure it sound Mixolydian instead of a regular major scale, or Ionian in
 this case.
 
 | Intervals     | I   | ii  | iii | IV  | V   | vi  | vii(o) | I      |
@@ -178,8 +178,10 @@ Melodic minor has modes itself to be discovered later on.
 | Melodic(Jazz)      | R   | M2  | m3  | P4  | P5  | `M6` | `M7`   | Octave |
 | Dorian(Funk/Blues) | R   | M2  | m3  | P4  | P5  | `M6` | m7     | Octave |
 
-I think I got too far before learning basics in this post. So, I will stop here with the modes and go back to basic in my next post.
-Anyway, It made me happy to see the structure and understand how modes are made up. At the end, what I can say is The Diatonic Major Scale is the one to rule them all!
+I think I got too far before learning basics in this post.
+So, I will stop here with the modes and go back to basic in my next post.
+Anyway, It made me happy to see the structure and understand how modes are made up.
+At the end, what I can say is The Diatonic Major Scale is the one to rule them all!
 
 ---
 
@@ -195,11 +197,11 @@ This makes it easier to recognize them on the fretboard and apply them musically
 
 - **Lydian**  
   Major scale with a **raised 4th**  
-  → Think: _major + ♯4_
+  → Think: **major + $4**
 
 - **Mixolydian**  
   Major scale with a **lowered 7th**  
-  → Think: _major + ♭7_
+  → Think: **major + b7**
 
 ---
 
@@ -210,11 +212,11 @@ This makes it easier to recognize them on the fretboard and apply them musically
 
 - **Dorian**  
   Minor scale with a **raised 6th**  
-  → Think: _minor + M6_
+  → Think: **minor + M6**
 
 - **Phrygian**  
   Minor scale with a **lowered 2nd**  
-  → Think: _minor + ♭2_
+  → Think: **minor + b2**
 
 ---
 
@@ -222,7 +224,7 @@ This makes it easier to recognize them on the fretboard and apply them musically
 
 - **Locrian**  
   Minor scale with a **lowered 2nd and lowered 5th**  
-  → Think: _minor + ♭2 + ♭5_  
+  → Think: **minor + b2 + b5**  
   (Very unstable and rarely used—safe to ignore for now.)
 
 ---

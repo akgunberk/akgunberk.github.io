@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Circle of 5ths: The magic circle"
+author: akgunberk
+categories: [hobby, music]
+tags: [music]
 image:
   path: /assets/images/circle_of_fifths.png
 ---
