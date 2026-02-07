@@ -3,7 +3,8 @@ layout: post
 title: "Circle of 5ths: The magic circle"
 author: akgunberk
 categories: [hobby, music]
-tags: [music]
+tags: [music-theory, scales, chords, circle-of-fifths, guitar]
+related_posts: true
 image:
   path: /assets/images/circle_of_fifths.png
 ---

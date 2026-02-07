@@ -3,6 +3,10 @@ author: akgunberk
 layout: post
 title: Nestjs and Authorization Deep Dive Part I
 date: 2026-02-04 11:25 +0300
+tags: [backend, nestjs, docker, authorization, jwt, security, typescript]
+related_posts: true
+image:
+  path: /assets/images/cover_nestjs_auth.jpg
 ---
 
 No BS. Setting up Nestjs backend application with secure authentication and authorization.

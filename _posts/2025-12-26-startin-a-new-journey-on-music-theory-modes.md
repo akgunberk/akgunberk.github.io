@@ -4,7 +4,10 @@ title: "Starting a new journey on music theory"
 date: 2025-12-26 10:25 +0300
 author: akgunberk
 categories: [hobby, music]
-tags: [music]
+tags: [music-theory, guitar, learning]
+related_posts: true
+image:
+  path: /assets/images/cover_music_journey.jpg
 ---
 
 ## How I Started and My Music Background

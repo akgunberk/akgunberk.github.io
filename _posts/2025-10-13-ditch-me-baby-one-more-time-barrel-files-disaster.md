@@ -4,7 +4,10 @@ title: Ditch me baby one more time! Barrel files disaster!
 date: 2025-10-13 16:53 +0300
 author: akgunberk
 categories: [code, optimization]
-tags: [next, react]
+tags: [nextjs, react, javascript, performance, bundling]
+related_posts: true
+image:
+  path: /assets/images/cover_barrel_files.jpg
 ---
 
 # How Ditching Barrel Files Reduced My Bundle Size by 95%

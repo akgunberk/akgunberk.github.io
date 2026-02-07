@@ -3,7 +3,10 @@ layout: post
 title: 'The intervals: where everything started'
 author: akgunberk
 categories: [hobby, music]
-tags: [music]
+tags: [music-theory, intervals, guitar]
+related_posts: true
+image:
+  path: /assets/images/cover_intervals.jpg
 date: 2026-01-01 22:19 +0300
 math: true
 ---

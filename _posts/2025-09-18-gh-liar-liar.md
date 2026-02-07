@@ -4,7 +4,10 @@ title: GH! Liar liar
 author: akgunberk
 date: 2025-09-18 14:13 +0300
 categories: [daily, code]
-tags: [git]
+tags: [git, developer-tools, github, code-review]
+related_posts: true
+image:
+  path: /assets/images/cover_github_pr.jpg
 ---
 
 # When GitHub PR Diffs Scare Reviewers More Than They Should

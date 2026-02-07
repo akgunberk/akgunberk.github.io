@@ -4,7 +4,10 @@ title: Majors and Minors
 date: 2025-12-28 18:42 +0300
 author: akgunberk
 categories: [hobby, music]
-tags: [music]
+tags: [music-theory, scales, chords, guitar]
+related_posts: true
+image:
+  path: /assets/images/cover_majors_minors.jpg
 mermaid: true
 ---
 
