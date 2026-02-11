@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 'The intervals: where everything started'
+title: "The intervals: where everything started"
 author: akgunberk
-categories: [hobby, music]
 tags: [music-theory, intervals, guitar]
 related_posts: true
 image:
@@ -10,6 +9,7 @@ image:
 date: 2026-01-01 22:19 +0300
 math: true
 ---
+
 In my honest opinion, if there is one thing everyone should learn to
 truly understand music, intervals are the first place to look.
 

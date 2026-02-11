@@ -3,7 +3,6 @@ layout: post
 title: Get back my conflict state!
 date: 2025-09-16 09:20 +0300
 author: akgunberk
-categories: [daily, code]
 tags: [git, developer-tools, merge-conflicts]
 related_posts: true
 image:

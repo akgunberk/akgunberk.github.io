@@ -3,7 +3,6 @@ layout: post
 title: Majors and Minors
 date: 2025-12-28 18:42 +0300
 author: akgunberk
-categories: [hobby, music]
 tags: [music-theory, scales, chords, guitar]
 related_posts: true
 image:
@@ -17,19 +16,19 @@ As you may have heard already:
 
 > Major Diatonic Scale Construction:  
 > Whole Whole Half Whole Whole Whole Half
-{: .prompt-info }
+> {: .prompt-info }
 
 In another words:
 
 > All whole steps except between 2nd-3rd and 6th-7th
-{: .prompt-tip }
+> {: .prompt-tip }
 
 If I need to express in some other words which I believe is the most important
 ones to also learn the reasoning behind naming the chords:
 
 > Major Diatonic Scale Intervals:  
 > Root M2 M3 P4 P5 M6 M7
-{: .prompt-info }
+> {: .prompt-info }
 
 Which in this case, you may wonder what this notation is. In short, `M` is major
 internal and `m` is minor interval whereas `P` stands for perfect which we can
@@ -40,7 +39,7 @@ and found myself in the key of C. Luckily, the key is best known as its notes al
 made of natural chords, in other words no sharps or flats.
 
 > C (whole) D (whole) E (half) F (whole) G (whole) A (whole) B (half) C
-{: .prompt-info }
+> {: .prompt-info }
 
 I knew that knowing all keys in diatonic major scale is important to derive
 chords from their scales so I got a pen and paper and wrote all them down.
@@ -49,9 +48,10 @@ Right now, I know it is impossible to memorize all 7 scales quickly but I think
 I can memorize their roots, 3rd's and 5th's.
 
 > The chord of a related scale is made up by the triads of 1st + 3rd + 5th.
+>
 > - Major triad is Root + M3(major 3rd) + M5
 > - Minor triad is Root + m3(minor 3rd) + M5
-{: .prompt-tip }
+>   {: .prompt-tip }
 
 | Formulas | I   | ii  | iii | IV  | V   | vi  | vii(o) | I   |
 | -------- | --- | --- | --- | --- | --- | --- | ------ | --- |
@@ -112,7 +112,7 @@ So as a summary when someone asks me what X chord is made of
 - construct the triad as Root,3rd,5th.
 - adjust the 3rd of the chord in need.
   - A C E => sharp the 3rd => A C# E
-  - C E G => flat the  3rd => C Eb G
+  - C E G => flat the 3rd => C Eb G
 
 This was my initial approach to learn scales and triads.
 Later I checked open chords on guitar to validate myself and internalise my

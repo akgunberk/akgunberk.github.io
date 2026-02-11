@@ -3,7 +3,6 @@ layout: post
 title: Oh my patch! Juggling git commands
 date: 2025-09-19 16:17 +0300
 author: akgunberk
-categories: [daily, code]
 tags: [git, developer-tools, patch]
 related_posts: true
 image:

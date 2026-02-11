@@ -2,7 +2,6 @@
 layout: post
 title: "Circle of 5ths: The magic circle"
 author: akgunberk
-categories: [hobby, music]
 tags: [music-theory, scales, chords, circle-of-fifths, guitar]
 related_posts: true
 image:
@@ -38,7 +37,7 @@ and connect them together until it reaches back to C again.
 > - C F G no sharps and flats in major
 > - A D E taking sharps at 3rd note
 > - B is the problem child getting both sharped 3rd and 5th
-{: .prompt-tip }
+>   {: .prompt-tip }
 
 <pre>
 C  E  G  => G  B  D  => D  F# A  => A  C# E  => E  G# B => B  D# F# 

@@ -3,7 +3,6 @@ layout: post
 title: GH! Liar liar
 author: akgunberk
 date: 2025-09-18 14:13 +0300
-categories: [daily, code]
 tags: [git, developer-tools, github, code-review]
 related_posts: true
 image:

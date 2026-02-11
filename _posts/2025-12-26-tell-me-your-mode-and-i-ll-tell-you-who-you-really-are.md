@@ -3,7 +3,6 @@ layout: post
 title: Tell me your mode and I'll tell you who you really are
 date: 2025-12-26 11:44 +0300
 author: akgunberk
-categories: [hobby, music]
 tags: [music-theory, modes, scales, guitar]
 related_posts: true
 image:
